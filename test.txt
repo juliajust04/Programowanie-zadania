@@ -1,0 +1,2 @@
+Zmiana z test2 > text.txt
+echo Zmiana z test2
